@@ -1,8 +1,22 @@
 ### seja bem  vindo ao meu repositorio 🇧🇷
+
+- estudo no alura
+- estou começando com c#
+- 
+-
+-
+-
+
+![](https://media.tenor.com/RI-A7Rxx_SsAAAAi/rimuru.gif)
+
 ### PRAZER MEU NOME É MUAS
 
+### email de contato
 
-![](https://tenor.com/pt-BR/view/tanya-tanya-degurechaff-tanya-von-degurechaff-youjo-senki-anime-gif-27307505)
+luizfelipedasilvamarin@gmail.com
 
+![](https://media.tenor.com/_f0kPCzBxpMAAAAC/tanya-tanya-degurechaff.gif)
 
+![](https://media.tenor.com/jW2TAwN7h50AAAAC/anime-kanna-kobayashi.gif)
+![](https://media.tenor.com/lVVtjsnqIJAAAAAd/dr-stone-senku.gif)
 

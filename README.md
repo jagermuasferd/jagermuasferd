@@ -2,8 +2,8 @@
 
 - estudo no alura
 - estou começando com c#
-- 
--
+- estou estudando ADS 
+- tenho nivel medio exel e world
 -
 -
 

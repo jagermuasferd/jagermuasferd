@@ -2,7 +2,7 @@
 
 - estudo no alura
 - estou começando com c#
-- estou estudando ADS 
+- estou estudando ADS, na faculdade UMFG
 - tenho nivel medio Excel e Word
 -
 -
